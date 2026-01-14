@@ -1,0 +1,7 @@
+{
+  "name": "Peixe Godoy - Restaurante de Frutos do Mar",
+  "description": "Site oficial do Restaurante Peixe Godoy, especialista em peixes e frutos do mar com atmosfera tranquila e pratos excepcionais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
